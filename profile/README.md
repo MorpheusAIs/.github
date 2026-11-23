@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/144983598?s=200&v=4" width="100" alt="Morpheus">
-  <h1>Morpheus</h1>
+  <img src="assets/morpheus-banner.png" width="100%" alt="Morpheus">
   <p>An open, decentralized network for AI inference.</p>
   <a href="https://mor.org"><img src="https://img.shields.io/badge/Site-mor.org-1f2328?style=for-the-badge" alt="Site"></a>
   <a href="https://gitbook.mor.org"><img src="https://img.shields.io/badge/Docs-gitbook.mor.org-1f2328?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs"></a>
