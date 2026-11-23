@@ -1,40 +1,20 @@
-# Morpheus
-
-Morpheus is an open, decentralized network for AI inference. Providers serve models, consumers access them, and coordination happens on-chain with MOR.
-
-## Start here
-
-- Site: https://mor.org
-- Documentation: https://gitbook.mor.org (ecosystem), https://nodedocs.mor.org (node), https://apidocs.mor.org (hosted API)
-- Network status: https://active.mor.org
-- Discussions: https://github.com/orgs/MorpheusAIs/discussions
-
-## Core repositories
-
-| Repository | What it is |
-| --- | --- |
-| Morpheus-Lumerin-Node | Proxy-router node, MorpheusUI desktop, and CLI |
-| Morpheus-Marketplace-API | Hosted API at api.mor.org |
-| Morpheus-Marketplace-APP | Web app at app.mor.org |
-| Morpheus-Uplink | Personal gateway to the Morpheus network |
-| Morpheus-MyProvider | Helper app to deploy and configure a provider proxy-router node |
-| SmartContracts | Smart contracts for the Morpheus network |
-| Docs | Technical documentation |
-| MRC | Morpheus Request for Comments; big proposals are written down here |
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/144983598?s=200&v=4" width="100" alt="Morpheus">
+  <h1>Morpheus</h1>
+  <p>An open, decentralized network for AI inference.</p>
+  <a href="https://mor.org"><img src="https://img.shields.io/badge/Site-mor.org-1f2328?style=for-the-badge" alt="Site"></a>
+  <a href="https://gitbook.mor.org"><img src="https://img.shields.io/badge/Docs-gitbook.mor.org-1f2328?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs"></a>
+  <a href="https://active.mor.org"><img src="https://img.shields.io/badge/Status-active.mor.org-1f2328?style=for-the-badge" alt="Status"></a>
+  <a href="https://github.com/orgs/MorpheusAIs/discussions"><img src="https://img.shields.io/badge/Discussions-GitHub%20Discussions-1f2328?style=for-the-badge&logo=github&logoColor=white" alt="Discussions"></a>
+  <a href="https://x.com/MorpheusAIs"><img src="https://img.shields.io/badge/X-%40MorpheusAIs-1f2328?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://discord.gg/YYKEahcutB"><img src="https://img.shields.io/badge/Discord-Join%20Server-1f2328?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/MorpheusAI"><img src="https://img.shields.io/badge/Telegram-t.me%2FMorpheusAI-1f2328?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</div>
 
 ## How to contribute
 
-1. Start in org Discussions.
-2. Open an issue for real work.
-3. Fork or branch from `dev` and open a PR into `dev`.
-4. Maintainers review and promote `dev -> test -> main`.
-
-See [CONTRIBUTING.md](https://github.com/MorpheusAIs/.github/blob/main/CONTRIBUTING.md).
+Start in [Discussions](https://github.com/orgs/MorpheusAIs/discussions). Open an issue, then fork or branch from `dev` and open a PR into `dev`. Maintainers promote `dev → test → main`. See [CONTRIBUTING.md](https://github.com/MorpheusAIs/.github/blob/main/CONTRIBUTING.md).
 
 ## Security
 
 Report security issues privately. See [SECURITY.md](https://github.com/MorpheusAIs/.github/blob/main/SECURITY.md).
-
-## Code of conduct
-
-See [CODE_OF_CONDUCT.md](https://github.com/MorpheusAIs/.github/blob/main/CODE_OF_CONDUCT.md).
