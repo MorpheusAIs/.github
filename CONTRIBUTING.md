@@ -46,7 +46,7 @@ Workflows from external contributors' fork PRs run only after a maintainer appro
 
 ## Agents and bots
 
-AI agents and bots are welcome and follow the same rules and review gates as people. A human is accountable for each agent's PR. Repositories may have AGENTS.md with agent rules.
+AI agents and bots are welcome and follow the same rules and review gates as people. A human is accountable for each agent's PR. Repositories may have AGENTS.md with agent rules; the org-wide agent guide is [AGENTS.md](https://github.com/MorpheusAIs/.github/blob/main/AGENTS.md).
 
 ## No secrets
 
