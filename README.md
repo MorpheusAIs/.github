@@ -11,6 +11,9 @@ It also contains `profile/README.md`, the public organization profile.
 | `SECURITY.md` | Private vulnerability reporting guidance |
 | `SUPPORT.md` | Where to go for questions and non-security reports |
 | `CODE_OF_CONDUCT.md` | Community code of conduct |
+| `GOVERNANCE.md` | Roles, decisions and the contributor ladder |
+| `MAINTAINERS.md` | Owners, Maintainers, Security and Agents teams |
+| `MAINTAINER_HANDBOOK.md` | How maintainers and agents run the org day to day |
 | `profile/README.md` | Public organization profile |
 | Issue and PR templates | Default issue and pull request forms |
 | Vulnerability report form | Private vulnerability report form |
