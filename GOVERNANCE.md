@@ -7,7 +7,7 @@ This document outlines the governance structure of the MorpheusAIs organization.
 ### Owners
 Owners have administrative access across all repositories and organization settings. They can bypass the branch rulesets only through a pull request, never by pushing directly, manage org-level configurations, and act as final decision-makers when consensus cannot be reached.
 
-Current owners: see [MAINTAINERS.md](./MAINTAINERS.md#owners).
+The org has four owners; see [MAINTAINERS.md](./MAINTAINERS.md#owners).
 
 ### Maintainers
 Members of the Maintainers team hold the `all_repo_maintain` organization role, which grants Maintain permission on every repository. They are required reviewers on protected branches (see [Branch protection](#branch-protection)), approve and merge pull requests, triage issues, and ensure the quality and security of the codebase. Maintainers participate in the private Buzz coordination room and have access to the private `Morpheus-Maintainer-Context` repository.
@@ -20,7 +20,7 @@ Security managers hold the `security_manager` organization role. They handle pri
 Current security managers: see [MAINTAINERS.md](./MAINTAINERS.md#security-team).
 
 ### Agents
-Agents are automated accounts that contribute code or perform tasks. They are granted `all_repo_write` (Write on every repository, never Admin). Agents work through draft pull requests, never approve or merge, and must disclose that they are agents and name the accountable human. Agent activity is subject to the same review and approval gates as human contributions. See [AGENTS.md](./AGENTS.md) for more details.
+Agents are agent accounts (see the Agents team in MAINTAINERS.md) that contribute code or perform tasks. They are granted `all_repo_write` (Write on every repository, never Admin). Agents work through draft pull requests, never approve or merge, and must disclose that they are agents and name the accountable human. Agent activity is subject to the same review and approval gates as human contributions. See [AGENTS.md](./AGENTS.md) for more details.
 
 Current agents: see [MAINTAINERS.md](./MAINTAINERS.md#agents-team).
 
@@ -47,10 +47,10 @@ When maintainers cannot reach a decision after discussion and an MRC review, the
 |--------|---------|------------|-----|
 | **GitHub repos, Issues, PRs** | Code, documentation, task tracking, technical decisions | Public (most repos) | Everyone (public), maintainers (all) |
 | **GitHub Discussions** | Questions, ideas, announcements, community support | Public | Community and maintainers |
-| **Morpheus Roadmap project** | Public tracking of roadmap items | Public | Everyone |
+| **[Morpheus Roadmap project](https://github.com/orgs/MorpheusAIs/projects/4)** | Public tracking of roadmap items | Public | Everyone |
 | **Morpheus Work project** | Private product status, private-report stubs | Private | Maintainers |
 | **MRC repo** | Formal proposals for major changes | Public | Everyone |
-| **Morpheus-Maintainer-Context repo** | Decision log, private initiatives, how-we-work | Private | Maintainers |
+| **Morpheus-Maintainer-Context repo** | Decision log, private initiatives, how-we-work, maintainer handbook (maintainers only) | Private | Maintainers |
 | **Discord** | Real-time community chat | Public ([invite](https://discord.gg/YYKEahcutB)) | Community |
 | **Buzz** | Private maintainer coordination room | Private | Maintainers |
 | **Signal** | Urgent / private communication | Private | Owners and maintainers (as needed) |
